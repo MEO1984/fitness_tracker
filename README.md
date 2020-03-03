@@ -1,5 +1,7 @@
 # fitness_tracker
 
+![fitness_tracker](https://github.com/MEO1984/fitness_tracker/blob/master/Example.gif)
+
 # Description
 Fitness Tracker is an easy way to log and view daily workouts so that you can reach your fitness goals quicker.
 
